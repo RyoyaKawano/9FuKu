@@ -5,7 +5,7 @@
 
 
 ## LLMモデル
-このプロジェクトでは、[rinna/japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)モデルを使用しています。rinna/japanese-gpt-neox-3.6bは、日本語の大規模な事前学習を行ったGPTモデルであり、自然な日本語の文章生成やその他のNLPタスクに使用できます。
+このプロジェクトでは、[rinna/japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)モデルを使用しています。rinna/japanese-gpt-neox-3.6bは、日本語の大規模な事前学習を行ったGPTモデルであり、自然な日本語の文章生成やその他のNLPタスクに使用できますよ。
 
 ## インストール
 プロジェクトをクローンするか、ダウンロードして、必要なライブラリをインストールしてください。
